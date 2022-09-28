@@ -1,4 +1,4 @@
-# DL_FINAL_PROJECT
+# RAW AUDIO GAN
 
 Here are examples of how we can adapt some data processing for the audio data, but it is a classification CNN so the architecture itself is not that useful... https://medium.com/in-pursuit-of-artificial-intelligence/deep-learning-using-raw-audio-files-66d5e7bf4cca
 
